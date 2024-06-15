@@ -1,0 +1,22 @@
+
+.top{
+    padding: 20px;
+}
+label{
+    padding: 10px;
+}
+button{
+    margin: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 5px;
+    border: 2px;
+}
+.table{
+    padding: 20px;
+}
+.table th,td{
+    padding: 20px;
+}
